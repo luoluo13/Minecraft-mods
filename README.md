@@ -15,5 +15,11 @@
 
 ## 协作开发者
 
-1. luoming（主创）
-2. Nefeli（协作者）（水货）（github: Luo-Po）
+1. luoming（主创）（github: luoluo13）
+2. Nefeli（协作者）（github: Luo-Po）
+
+
+
+## 测试组
+
+1. 
