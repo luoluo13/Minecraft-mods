@@ -16,4 +16,4 @@
 ## 协作开发者
 
 1. luoming（主创）
-2. Nefeli（协作者）（水货）
+2. Nefeli（协作者）（水货）（github: Luo-Po）
