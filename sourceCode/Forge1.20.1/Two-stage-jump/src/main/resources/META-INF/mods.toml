@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]]
+modId="twostagejump"
+version="1.0.0"
+displayName="TwoStageJump"
+authors="luoming"
+description="实现了二段跳效果"
+[[dependencies.twostagejump]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+[[dependencies.twostagejump]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20,1.21)"
