@@ -3,7 +3,7 @@
 
 
 
-<span style="color:red">**sourceCode**</span>文件夹中存放的是模组源代码，若无额外添加物品/生物/材质，我们只提供<span style="color:red">**src**</span>资源，请自行配置开发环境！
+<span style="color:red">**sourceCode**</span>文件夹中存放的是模组源代码，若无额外添加物品/生物/材质，我们只提供<span style="color:red">**src**</span>资源和必要文件，请自行配置开发环境！
 
 
 
