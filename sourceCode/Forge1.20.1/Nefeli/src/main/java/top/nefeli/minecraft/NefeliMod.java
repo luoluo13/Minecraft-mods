@@ -7,12 +7,12 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import top.nefeli.minecraft.enchantment.EnchantmentHandler;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(ExampleMod.MODID)
-public class ExampleMod {
+@Mod(NefeliMod.MODID)
+public class NefeliMod {
     // Define mod id in a common place for everything to reference
-    public static final String MODID = "examplemod";
+    public static final String MODID = "nefeli";
     // Directly reference a slf4j logger
-    public ExampleMod() {
+    public NefeliMod() {
         MinecraftForge.EVENT_BUS.register(new EnchantmentHandler());
 
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();

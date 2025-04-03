@@ -13,7 +13,7 @@ import top.nefeli.minecraft.enchantment.StiffnessEnchantment;
 public class ModEnchantments {
     // 1. 创建 DeferredRegister
     public static final DeferredRegister<Enchantment> ENCHANTMENTS =
-            DeferredRegister.create(ForgeRegistries.ENCHANTMENTS, ExampleMod.MODID);
+            DeferredRegister.create(ForgeRegistries.ENCHANTMENTS, NefeliMod.MODID);
 
     // 2. 注册附魔
     public static final RegistryObject<Enchantment> STIFFNESS =

@@ -18,7 +18,7 @@ import top.nefeli.minecraft.ModEnchantments;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static top.nefeli.minecraft.ExampleMod.MODID;
+import static top.nefeli.minecraft.NefeliMod.MODID;
 
 @Mod.EventBusSubscriber(modid = MODID)
 public class EnchantmentHandler {
