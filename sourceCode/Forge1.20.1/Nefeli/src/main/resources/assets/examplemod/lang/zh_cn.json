@@ -6,5 +6,8 @@
   "enchantment.nefeli.rapid_fire": "速射",
   "enchantment.nefeli.rapid_fire.desc": "每秒（大概）射出x支箭矢（x为附魔等级）",
   "enchantment.nefeli.scattering_fire": "霰弹",
-  "enchantment.nefeli.scattering_fire.desc": "每次可以射出x支箭矢（x为附魔等级）（单独附魔无效必须伴随速射使用）"
+  "enchantment.nefeli.scattering_fire.desc": "每次可以射出x支箭矢（x为附魔等级）（单独附魔无效必须伴随速射使用）",
+
+  "item.nefeli.bullet": "子弹",
+  "item.nefeli.gun": "枪"
 }

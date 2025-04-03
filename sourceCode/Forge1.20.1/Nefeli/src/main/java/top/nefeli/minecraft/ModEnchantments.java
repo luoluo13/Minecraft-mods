@@ -4,10 +4,10 @@ import net.minecraft.world.item.enchantment.Enchantment;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import top.nefeli.minecraft.enchantment.LifeStealEnchantment;
-import top.nefeli.minecraft.enchantment.RapidFireEnchantment;
-import top.nefeli.minecraft.enchantment.ScatteringFireEnchantment;
-import top.nefeli.minecraft.enchantment.StiffnessEnchantment;
+import top.nefeli.minecraft.enchantments.LifeStealEnchantment;
+import top.nefeli.minecraft.enchantments.RapidFireEnchantment;
+import top.nefeli.minecraft.enchantments.ScatteringFireEnchantment;
+import top.nefeli.minecraft.enchantments.StiffnessEnchantment;
 
 
 public class ModEnchantments {
@@ -22,7 +22,6 @@ public class ModEnchantments {
             ENCHANTMENTS.register("life_steal", LifeStealEnchantment::new);
     public static final RegistryObject<Enchantment> RAPID_FIRE  =
             ENCHANTMENTS.register("rapid_fire", RapidFireEnchantment::new);
-
     public static final RegistryObject<Enchantment> SCATTERING_FIRE  =
             ENCHANTMENTS.register("scattering_fire", ScatteringFireEnchantment::new);
 
