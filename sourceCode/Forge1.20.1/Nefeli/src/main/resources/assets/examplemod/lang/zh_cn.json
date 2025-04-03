@@ -1,0 +1,10 @@
+{
+  "enchantment.examplemod.stiffness": "直射",
+  "enchantment.examplemod.stiffness.desc": "弹道无下坠",
+  "enchantment.examplemod.life_steal": "生命汲取",
+  "enchantment.examplemod.life_steal.desc": "恢复生命值",
+  "enchantment.examplemod.rapid_fire": "速射",
+  "enchantment.examplemod.rapid_fire.desc": "每秒（大概）射出x支箭矢（x为附魔等级）",
+  "enchantment.examplemod.scattering_fire": "霰弹",
+  "enchantment.examplemod.scattering_fire.desc": "每次可以射出x支箭矢（x为附魔等级）（单独附魔无效必须伴随速射使用）"
+}
