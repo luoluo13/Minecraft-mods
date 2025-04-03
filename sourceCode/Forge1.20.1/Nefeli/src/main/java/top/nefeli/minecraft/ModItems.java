@@ -6,6 +6,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import top.nefeli.minecraft.items.BulletItem;
 import top.nefeli.minecraft.items.GunItem;
+import top.nefeli.minecraft.items.MachineGunItem;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -15,4 +16,7 @@ public class ModItems {
             ITEMS.register("bullet", BulletItem::new);
     public static final RegistryObject<Item> GUN =
             ITEMS.register("gun", GunItem::new);
+
+    public static final RegistryObject<Item> MACHINEGUN =
+            ITEMS.register("machinegun", MachineGunItem::new);
 }

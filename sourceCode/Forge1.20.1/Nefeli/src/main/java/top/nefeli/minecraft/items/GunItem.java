@@ -13,7 +13,7 @@ import top.nefeli.minecraft.entities.BulletEntity;
 
 public class GunItem extends Item {
     public GunItem() {
-        super(new Item.Properties().stacksTo(1));
+        super(new Properties().stacksTo(1));
     }
 
     @Override
@@ -39,6 +39,7 @@ public class GunItem extends Item {
 
             // 播放射击音效（可选）
             player.playSound(SoundEvents.GENERIC_EXPLODE, 1.0F, 1.0F);
+            player.getCooldowns().addCooldown(this, 30);
         }
 
         return InteractionResultHolder.success(player.getItemInHand(hand));
