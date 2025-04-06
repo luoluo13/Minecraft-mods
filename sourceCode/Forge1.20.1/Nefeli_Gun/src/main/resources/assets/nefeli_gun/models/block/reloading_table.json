@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nefeli_gun:block/reloading_table"
+  }
+}

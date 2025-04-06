@@ -1,0 +1,13 @@
+{
+  "item.nefeli_gun.bullet": "%s子弹",
+  "item.nefeli_gun.bulletcasing": "%s%s弹壳",
+  "item.nefeli_gun.bulletcore": "%s%s弹头",
+  "item.nefeli_gun.bulletprimer": "%s底火",
+
+  "block.nefeli_gun.reloading_table": "子弹装配台",
+  "jei.nefeli_gun.reloading_recipe": "子弹装配配方",
+  "lore.nefeli_gun.bullet.core": "弹头：%s%s弹头",
+  "lore.nefeli_gun.bullet.casing": "蛋壳：%s%s蛋壳",
+  "lore.nefeli_gun.bullet.primer": "底火：%s底火",
+  "lore.nefeli_gun.bullet.power": "装药量：%d"
+}
